@@ -1,3 +1,32 @@
+## Progress Checklist
+- [ ] foundations
+	- [x] 01-css-methods
+	- [x] 02-class-id-selectors
+	- [ ] 03-grouping-selectors
+	- [ ] 04-chaining-selectors
+	- [ ] 05-descendant-combinator
+	- [ ] 06-cascade-fix
+- [ ] grid
+	- [ ] 01-grid-layout-1
+	- [ ] 02-grid-layout-2
+	- [ ] 03-grid-layout-3
+- [ ] margin-and-padding
+	- [ ] 01-margin-and-padding-1
+	- [ ] 02-margin-and-padding-2
+- [ ] flex
+	- [ ] 01-flex-center
+	- [ ] 02-flex-header
+	- [ ] 03-flex-header2
+	- [ ] 04-flex-information
+	- [ ] 05-flex-modal
+	- [ ] 06-flex-layout
+	- [ ] 07-flex-layout2
+- [ ] animation
+	- [ ] 01-button-hover
+	- [ ] 02-pop-up
+
+* * *
+
 # CSS Exercises
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
